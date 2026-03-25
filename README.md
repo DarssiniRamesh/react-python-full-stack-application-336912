@@ -1,1 +1,3 @@
-# react-python-full-stack-application-336912
+# Project Repository
+
+This is the initial README file for the project.
